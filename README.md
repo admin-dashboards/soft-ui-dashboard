@@ -12,7 +12,7 @@
 
 <br />
 
-![Image](https://s3.amazonaws.com/creativetim_bucket/products/450/original/opt_sd_free_thumbnail.png)
+![Soft UI Dashboard - Open-source Bootstrap 5 template crafted by Creative-Tim.](https://raw.githubusercontent.com/admin-dashboards/soft-ui-dashboard/main/media/soft-ui-dashboard-intro.gif)
 
 <br />
 
