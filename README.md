@@ -161,3 +161,8 @@ Facebook: <https://www.facebook.com/CreativeTim>
 Dribbble: <https://dribbble.com/creativetim>
 
 Instagram: <https://instagram.com/creativetimofficial>
+
+<br />
+
+---
+**Soft UI Dashboard** - Open-source Bootstrap 5 template crafted by Creative-Tim
